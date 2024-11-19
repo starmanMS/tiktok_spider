@@ -3,7 +3,7 @@
 这是一个专门用于采集 TikTok 直播数据的 Python 脚本，能够自动获取并存储有关直播主的详细信息，包括粉丝数、用户数、礼物数等指标。脚本利用网络爬虫技术与 MySQL 数据库进行集成，方便用户定期采集和分析 TikTok 直播数据，适合数据分析、直播监控或市场研究等需求。
 
 ---
-![](https://cdn.jsdelivr.net/gh/starmanMS/blog-images@main/img/TikTok-for-Business-256x256.jpg)
+![](https://cdn.jsdelivr.net/gh/starmanMS/blog-images@main/img/TikTok-for-Business-1024x1024.jpg)
 
 ## 功能概述
 
@@ -36,6 +36,7 @@
 11. **地区 (`region`)**：直播主的所在地区（通过自定义方法提取）。
 
 ---
+![](https://cdn.jsdelivr.net/gh/starmanMS/blog-images@main/img/PixPin_2024-11-13_16-16-06.png)
 
 ## 联系作者
 
